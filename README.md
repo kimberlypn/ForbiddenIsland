@@ -20,6 +20,7 @@ There are three different maps that you can play:
 **Regular Mountain**
 The center of the screen is the peak, and the height uniformly decreases as
 you travel down the mountain, toward the corners.
+
 ![Regular Mountain Map](Screenshots/regular.png)
 
 **Random Mountain**
@@ -39,6 +40,7 @@ enter the helicopter until you have collected all five targets.
 ## Gameplay
 You win once you have collected all five targets and have made it to the
 helicopter. The win screen will be displayed as follows:
+
 ![Win Screen](Screenshots/win.png)
 
 You will lose if:
