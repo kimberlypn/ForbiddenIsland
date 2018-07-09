@@ -47,9 +47,9 @@ You will lose if:
 - The cell that you, the helicopter, or any of the targets is on floods.
 - All possible paths to any of the targets or the helicopter floods.
 
-In all scenarios but the one in which the cell that you are on floods, the only
-thing that you can do is to wait for the cell that you are on to flood so that
-you can restart the game.
+Although these scenarios indicate an unsuccessful game, the game does not 
+officially end until the cell that you are on floods. Thus, sometimes you 
+have to wait for this to happen if there is nothing else that you can do. 
 
 The lose screen will be displayed as follows:
 ![Lose Screen](Screenshots/lose.png)
