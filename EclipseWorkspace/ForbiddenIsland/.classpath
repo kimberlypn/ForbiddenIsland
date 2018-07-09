@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="/Users/KimberlyNguyen/Desktop/2015-2016/CS2510/javalib.jar"/>
-	<classpathentry kind="lib" path="/Users/KimberlyNguyen/Desktop/2015-2016/CS2510/tester.jar"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
