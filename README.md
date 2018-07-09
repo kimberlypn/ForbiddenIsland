@@ -16,18 +16,19 @@ quite submerged. Ocean cells are blue. Land and flooded cells change color on
 each tick.
 
 There are three different maps that you can play:
+
 **Regular Mountain**
 The center of the screen is the peak, and the height uniformly decreases as
 you travel down the mountain, toward the corners.
-![Regular Mountain Map](Screenshots/regular-mountain.png)
+![Regular Mountain Map](Screenshots/regular.png)
 
 **Random Mountain**
 Although the mountain is still in a diamond shape, the heights are random.
-![Random Mountain Map](Screenshots/random-mountain.png)
+![Random Mountain Map](Screenshots/random.png)
 
 **Random Terrain**
 The shape and heights are random.
-![Random Terrain Map](Screenshots/random-terrain.png)
+![Random Terrain Map](Screenshots/terrain.png)
 
 ## Controls
 You control the pilot by using the arrow keys. You can only stand on land-- not
@@ -55,7 +56,7 @@ The lose screen will be displayed as follows:
 1. Download Eclipse: https://www.eclipse.org/ide/
 2. Pull this repository and set [`EclipseWorkspace`](/EclipseWorkspace) as
 the workspace, or import [`ForbiddenIsland`](/EclipseWorkspace/ForbiddenIsland)
-into the workspace.
+into the workspace
 3. Import the two external `.jar` files in [`EclipseJars`](/EclipseJars) into the
 build path
 4. In the run configurations, set the main class as `tester.Main` and the
