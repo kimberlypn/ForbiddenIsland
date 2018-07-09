@@ -1,2 +1,6 @@
-.DS_Store
-._*
+EclipseJars/.DS_Store
+EclipseJars/._*
+EclipseWorkspace/ForbiddenIsland/.idea
+EclipseWorkspace/ForbiddenIsland/.settings
+EclipseWorkspace/ForbiddenIsland/.classpath
+EclipseWorkspace/ForbiddenIsland/.project
