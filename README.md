@@ -54,6 +54,11 @@ have to wait for this to happen if there is nothing else that you can do.
 The lose screen will be displayed as follows:
 ![Lose Screen](Screenshots/lose.png)
 
+## How to Change Maps
+In the default constructor of `ForbiddenIslandWorld`, change the map by calling
+`initMountain()` for the Regular Mountain, `initRandomMountain()` for the
+Random Mountain, or `initTerrain()` for the Random Terrain.
+
 ## How to Run the Game
 1. Download Eclipse: https://www.eclipse.org/ide/
 2. Pull this repository and set [`EclipseWorkspace`](/EclipseWorkspace) as
@@ -64,8 +69,3 @@ build path
 4. In the run configurations, set the main class as `tester.Main` and the
 program arguments as `Examples`
 5. Run the program
-
-## How to Change Maps
-In the default constructor of `ForbiddenIslandWorld`, change the map by calling
-`initMountain()` for the Regular Mountain, `initRandomMountain()` for the
-Random Mountain, or `initTerrain()` for the Random Terrain.
